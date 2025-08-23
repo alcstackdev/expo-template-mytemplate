@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Geist Font Family */
+@layer base {
+    * {
+        font-family: 'Geist_400Regular', system-ui, sans-serif;
+    }
+}

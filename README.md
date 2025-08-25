@@ -1,4 +1,4 @@
-# MyTemplate - Modern React Native Template
+# Modern React Native Template
 
 A modern React Native template project built with Expo Router, featuring multi-language support and responsive design.
 

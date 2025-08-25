@@ -313,23 +313,3 @@ npx expo build:ios
 ```bash
 npx expo build:android
 ```
-
-## 🤝 Contributing
-
-1. Fork the project
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## 🙏 Acknowledgments
-
-- [Expo](https://expo.dev/) - React Native development platform
-- [NativeWind](https://www.nativewind.dev/) - Tailwind CSS for React Native
-- [Lucide](https://lucide.dev/) - Beautiful & consistent icon toolkit
-- [Zustand](https://github.com/pmndrs/zustand) - State management
-- [i18next](https://www.i18next.com/) - Internationalization framework
